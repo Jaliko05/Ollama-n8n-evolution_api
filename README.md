@@ -7,15 +7,15 @@ Este entorno contiene una arquitectura compuesta por múltiples servicios para h
 | Servicio        | Propósito |
 |----------------|----------|
 | `postgres`     | Base de datos relacional para n8n y Evolution API |
-| `evolution_api`| API de backend desarrollada en Go para gesti贸n de flujos Evolution |
+| `evolution_api`| API de backend desarrollada en Go para gestión de flujos Evolution |
 | `redis`        | Almacenamiento temporal tipo clave/valor usado por Evolution |
-| `n8n`          | Plataforma de automatizaci贸n de flujos |
-| `qdrant`       | Base de datos vectorial para b煤squedas sem谩nticas |
+| `n8n`          | Plataforma de automatización de flujos |
+| `qdrant`       | Base de datos vectorial para búsquedas semánticas |
 | `ollama`       | Motor local de modelos de lenguaje (Llama 3.1, Nomic Embed) |
 
 ## 📦 Pre-requisitos
 
-Antes de ejecutar el entorno, aseg煤rese de contar con:
+Antes de ejecutar el entorno, asegurese de contar con:
 
 1. [Docker](https://docs.docker.com/get-docker/) 
 2. [Docker Compose](https://docs.docker.com/compose/install/) 
