@@ -1,0 +1,1 @@
+Esta carpeta se monta como volumen principal de n8n. Todos los archivos contenidos pueden ser accedidos para lectura y escritura por el contenedor.
