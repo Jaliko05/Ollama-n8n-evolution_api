@@ -35,7 +35,7 @@ N8N_USER_MANAGEMENT_JWT_SECRET=otra_clave
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/usuario/mi-repo.git
+git clone https://github.com/Jaliko05/Ollama-n8n-evolution_api.git
 cd mi-repo
 ```
 
